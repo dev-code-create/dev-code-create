@@ -10,7 +10,6 @@ Full-Stack Developer(MERN) | Exploring, Learning, Growing.
 </div>
 <div>
   <h1>Language's and Tools</h1>
-  <h3>Languages and Tools:</h3>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" height="30" alt="HTML">
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30" alt="CSS">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30" alt="JavaScript">
@@ -20,7 +19,6 @@ Full-Stack Developer(MERN) | Exploring, Learning, Growing.
 <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="30" height="30" alt="Tailwind CSS">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30" height="30" alt="MySQL">  
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="30" height="30" alt="Express">
-<img src="https://img.icons8.com/color/48/000000/convex.png" width="30" height="30" alt="Convex">
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" alt="Convex">
 
 </div>

@@ -17,8 +17,10 @@ Full-Stack Developer(MERN) | Exploring, Learning, Growing.
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30" height="30" alt="ReactJS">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30" alt="Node.js">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30" height="30" alt="MongoDB">
-<img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="30" height="30" alt="Tailwind CSS">
+<img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="30" height="30" alt="Tailwind CSS">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30" height="30" alt="MySQL">  
-<img src="https://img.icons8.com/color/48/000000/expressjs.png" width="30" height="30" alt="Express">
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="30" height="30" alt="Express">
 <img src="https://img.icons8.com/color/48/000000/convex.png" width="30" height="30" alt="Convex">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" alt="Convex">
+
 </div>

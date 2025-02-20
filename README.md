@@ -22,5 +22,5 @@ Full-Stack Developer(MERN) | Exploring, Learning, Growing.
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" alt="Convex">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-code-create"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-code-create&show_icons=true"/>
 </div>

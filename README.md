@@ -28,16 +28,6 @@ I'm a passionate developer with a keen interest in coding, creating, and contrib
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn)
-
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)

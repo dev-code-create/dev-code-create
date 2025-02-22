@@ -1,25 +1,54 @@
 # Hello, I'm Ayush Kankale👋
-Full-Stack Developer(MERN) | Exploring, Learning, Growing.
-* View my resume here: https://drive.google.com/file/d/1XMCiODc_-zXRybKe7634mIgAu3t_7FCA/view?usp=sharing <br/>
-<div>
-  <h1>Connect With Me</h1>
-<a href="https://x.com/AyushKanka74608"><img src="https://img.icons8.com/fluent/48/000000/twitter-circled.png" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/ayush-kankale"><img src="https://img.icons8.com/fluent/48/000000/linkedin-circled.png" width="30" height="30"></a>
-</div>
-<div>
-  <h1>Language's and Tools</h1>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" height="30" alt="HTML">
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30" alt="CSS">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30" alt="JavaScript">
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="30" height="30" alt="ReactJS">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" height="30" alt="Node.js">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30" height="30" alt="MongoDB">
-<img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="30" height="30" alt="Tailwind CSS">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30" height="30" alt="MySQL">  
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="30" height="30" alt="Express">
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="30" height="30" alt="Convex">
-  <br>
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-code-create&show_icons=true&theme=dark"/>
-</div>
+I'm a passionate developer with a keen interest in coding, creating, and contributing to open-source projects. I love exploring new technologies and continuously improving my skills. Here's a little bit about me:
+
+## 🚀 About Me
+- 🌱 I’m always learning and currently diving deeper into MERN Stack.
+- 👯 I’m looking to collaborate on projects that can make a difference.
+- 🤔 I’m open to discussing innovative ideas and projects.
+- 💬 Ask me about anything related to web development.
+- 📫 How to reach me: ayushkankale04@gmail.com 
+- ⚡ Fun fact: I love solving DSA Problems.
+
+## 🛠️ Technologies & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+
+### Web Development
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
+
+## 📈 GitHub Stats
+![dev-code-create's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-code-create&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ayush-kankale)
+- [Twitter](https://x.com/AyushKanka74608)
+
+Thanks for visiting my profile! Feel free to check out my repositories and projects. Let's connect and create something amazing together!

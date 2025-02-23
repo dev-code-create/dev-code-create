@@ -1,5 +1,6 @@
 # Hello, I'm Ayush Kankale👋
 I'm a passionate developer with a keen interest in coding, creating, and contributing to open-source projects. I love exploring new technologies and continuously improving my skills. Here's a little bit about me:
+My Resume => https://drive.google.com/file/d/1d-aKoTi22DAXuNkLve5h5yLNAJglIFdz/view?usp=sharing
 
 ## 🚀 About Me
 - 🌱 I’m always learning and currently diving deeper into MERN Stack.

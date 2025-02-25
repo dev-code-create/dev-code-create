@@ -38,7 +38,7 @@ My Resume => https://drive.google.com/file/d/1d-aKoTi22DAXuNkLve5h5yLNAJglIFdz/v
 ## 📈 GitHub Stats
 ![dev-code-create's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-code-create&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me 👍
 - [LinkedIn](https://www.linkedin.com/in/ayush-kankale)
 - [Twitter](https://x.com/AyushKanka74608)
 

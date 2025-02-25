@@ -42,4 +42,4 @@ My Resume => https://drive.google.com/file/d/1d-aKoTi22DAXuNkLve5h5yLNAJglIFdz/v
 - [LinkedIn](https://www.linkedin.com/in/ayush-kankale)
 - [Twitter](https://x.com/AyushKanka74608)
 
-Thanks for visiting my profile! Feel free to check out my repositories and projects. Let's connect and create something amazing together!
+Thanks for visiting my profile! Feel free to check out my repositories and projects. Let's connect and create something amazing together!😊

@@ -8,7 +8,7 @@ My Resume => https://drive.google.com/file/d/1d-aKoTi22DAXuNkLve5h5yLNAJglIFdz/v
 - 🤔 I’m open to discussing innovative ideas and projects.
 - 💬 Ask me about anything related to web development.
 - 📫 How to reach me: ayushkankale04@gmail.com 
-- ⚡ Fun fact: I love solving DSA Problems......
+- ⚡ Fun fact: I love solving DSA Problems.
 
 ## 🛠️ Technologies & Tools
 
